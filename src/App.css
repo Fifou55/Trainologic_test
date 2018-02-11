@@ -1,0 +1,7 @@
+ul li {
+  list-style-type: none;
+}
+
+ul li:hover {
+  background-color: #a3d9e7;
+}
